@@ -5,4 +5,4 @@ Arquivos:
 
 WebScrapping - Arquivo que contém o Webscrapping das páginas
 
-Tratativa - Arquivo que contém o Tratamento das Bases criadas
+Tratamento - Arquivo que contém o Tratamento das Bases criadas
