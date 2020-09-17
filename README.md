@@ -3,4 +3,9 @@ Files:
 
 WebScrapping - Contains all the functions used to web scrapp the page of FBREF
 
-Tratamento - Contains all the treatment of the Database used.
+Tratament - Contains all the treatment of the Database used.
+
+
+References:
+
+* https://fbref.com/
