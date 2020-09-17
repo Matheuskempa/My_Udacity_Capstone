@@ -1,8 +1,6 @@
-# LAMFOOT
-Repositório para compartilhamento de informação do projeto LAMFOOT
+# Udacity Capstone
+Files:
 
-Arquivos:
+WebScrapping - Contains all the functions used to web scrapp the page of FBREF
 
-WebScrapping - Arquivo que contém o Webscrapping das páginas
-
-Tratamento - Arquivo que contém o Tratamento das Bases criadas
+Tratamento - Contains all the treatment of the Database used.
