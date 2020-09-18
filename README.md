@@ -2,7 +2,7 @@
 ## Title:
 Machine Learning Algorithms for Football Prediction using statistics from Brazilian championship data
 
-### Abstract: 
+## Abstract: 
 This article evaluated football/Soccer prediction results (victory, draw, loss) in Brazilian Football Championship using various machine learning models based on real-world data from the real games. The models were tested recursively and average predictive results were compared. The results showed that logistic regression and support vectors machine yielded the best results, exhibiting superior average accuracy performance in comparison to others classifiers (KNN and Random Forest). In addition, a ranking of the features' relative importance was made to orient the use of Data.
 
 ## Motivation: 
