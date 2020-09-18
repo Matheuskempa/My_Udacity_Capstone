@@ -42,7 +42,7 @@ In this section all files will be described.
 
 * WebScrapping: Contains all the functions used to web scrapp the page of FBREF
 * Tratament: Contains all the treatment of the Database used.
-* UDACITY_CAPSTONE_PROJECT: PDF post of Udacity Capstone project.
+* UDACITY_CAPSTONE_POST: PDF post of Udacity Capstone project.
 * Brasileirao: Data Base from brazilia Championship futbool.
 * Results: PNG file with the results
 
