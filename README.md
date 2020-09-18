@@ -25,7 +25,7 @@ In this section all libraries will be detailed and in witch files they are.
 
 As it can be seen in the table bellow, the algorithm achieved almost 50% of accuracy, considering that the random prediction probability of success is 33\% (Victory/Draw/Loss), it is a good signal, it shows that the algorithm was able to identify some patterns after all.
 
-Format: ![results](https://github.com/Matheuskempa/My_Udacity_Capstone/blob/master/results.PNG?raw=true)
+![results](https://github.com/Matheuskempa/My_Udacity_Capstone/blob/master/results.PNG?raw=true)
 
 After all 1000 times the Logistic Regression had the best results, with one of the lowest standard deviation rates and the highest accuracy between all four models. SVM performed better than the others, but had the highest standard deviation, maybe showing that the model tends to vary more than other models.
 
