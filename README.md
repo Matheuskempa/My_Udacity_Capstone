@@ -33,4 +33,4 @@ In this section all files will be described.
 
 ## References and Sources of Data:
 
-* https://fbref.com/ : Site where Webscrapping was done - Data from Fotball.
+* https://fbref.com/ : Site where Webscrapping was done - Data from Brazilian Serie A Fotball.
