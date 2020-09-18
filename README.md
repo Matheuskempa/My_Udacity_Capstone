@@ -23,7 +23,18 @@ In this section all libraries will be detailed and in witch files they are.
 
 ## Summmary of Results
 
+As it can be seen in the table bellow, the algorithm achieved almost 50% of accuracy, considering that the random prediction probability of success is 33\% (Victory/Draw/Loss), it is a good signal, it shows that the algorithm was able to identify some patterns after all.
+
 Format: ![results](https://github.com/Matheuskempa/My_Udacity_Capstone/blob/master/results.PNG?raw=true)
+
+After all 1000 times the Logistic Regression had the best results, with one of the lowest standard deviation rates and the highest accuracy between all four models. SVM performed better than the others, but had the highest standard deviation, maybe showing that the model tends to vary more than other models.
+
+## Conclusions
+
+This project proves that football prediction is still a very hard task, at least with only this variables, ans it still needs more variables to help on the prediction of the results. However we can see by this article that a machine learning algorithms can already "think" on which team bet an can still be more accurate than people that does not know about the games having almost 17\% of advantage in the prediction when comparing to the probability of a randomly prediction.
+
+For the future i suggest to investigate and find more variables that could be usefully, as injuries for example, or more details of the players of each team, maybe FIFA or PRO EOVLUTION GAME data could help to bring more information to inside of the DataBase. Another thing that could be done for the future is on predicting the number of goals for of each team, this is more complex because it depends of the results predicted and they must conciliate with it, for example: it couldn't be two goals for the home team and two goals for the way team if the result was predicted as victory of the home team. So, maybe, this article can be a source of inspiration to the creation of better and complex models in the future.
+
 
 ## Files:
 
