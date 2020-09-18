@@ -22,8 +22,8 @@ In this section all libraries will be detailed and in witch files they are.
 * Time: Show the running time of some algorithms. Used in Webscrapping File.
 
 ## Summmary of Results
-![Results](/images/results.png)
-![results](https://github.com/[Matheuskempa]/[My_Udacity_Capstone]/blob/[master]/results.png?raw=true)
+
+Format: ![results](https://github.com/Matheuskempa/My_Udacity_Capstone/blob/master/results.PNG?raw=true)
 
 ## Files:
 
@@ -33,6 +33,7 @@ In this section all files will be described.
 * Tratament: Contains all the treatment of the Database used.
 * UDACITY_CAPSTONE_PROJECT: PDF post of Udacity Capstone project.
 * Brasileirao: Data Base from brazilia Championship futbool.
+* Results: PNG file with the results
 
 
 ## References and Sources of Data:
